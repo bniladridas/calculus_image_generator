@@ -1,4 +1,4 @@
-![Calculus Image Generator](https://via.placeholder.com/800x400)
+![Calculus Image Generator](/startup.png)
 
 A Next.js application that visualizes mathematical expressions using calculus principles.
 
